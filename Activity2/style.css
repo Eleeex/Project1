@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&amp;family=Lato&amp;display=swap');
+
+
+body{
+    background-color: rgb(204, 135, 8);
+    box-sizing: border-box;
+}
+
+p{
+    color: rgb(7, 7, 7);
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    width: 200;
+    height: 200px;
+    text-align: center;
+}
